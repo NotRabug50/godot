@@ -1,0 +1,16 @@
+# Generated using https://godot-build-options-generator.github.io
+
+production = "yes"
+disable_3d = "yes"
+optimize = "size"
+vulkan = "no"
+module_camera_enabled = "no"
+module_csg_enabled = "no"
+module_enet_enabled = "no"
+module_gltf_enabled = "no"
+module_multiplayer_enabled = "no"
+module_upnp_enabled = "no"
+module_webrtc_enabled = "no"
+module_websocket_enabled = "no"
+module_webxr_enabled = "no"
+module_zip_enabled = "no"
